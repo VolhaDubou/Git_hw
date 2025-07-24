@@ -1,1 +1,7 @@
-test
+Checkboxes of applied filters are disabled
+Minor
+1. Open Catalog page
+2. Apply any filter(s)
+3. Check Checkboxes of applied filter(s)
+Checkboxes of applied filters are disabled
+Checkboxes of applied filters are enabled
