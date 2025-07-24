@@ -1,0 +1,6 @@
+Low to high price sorting works incorrectly
+Major
+1. Open Catalog page
+2. Apply Price, low to high sorting
+Books are not sorted by price low to high
+Books are sorted by price low to high
